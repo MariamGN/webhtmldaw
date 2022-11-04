@@ -1,0 +1,172 @@
+body {
+    background: rgb(247, 208, 247);
+    margin: 0;
+}
+
+.container {
+    background-color: rgb(215, 152, 211);
+    width: 90%;
+    margin: 0% auto;
+    box-shadow: 0 0 40px black;
+}
+
+header {
+    background-image: url(../img/tree-736885__480.jpg);
+    height: 90px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+footer {
+    background-color: rgb(246, 159, 241);
+    padding: 2%;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 600;
+
+}
+
+nav {
+    background-color: rgb(215, 152, 211);
+    width: 20%;
+    float: left;
+}
+
+.cb {
+    clear: both;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li{
+    font-size: 20px;
+    background-color: rgb(244, 186, 232);
+    color: rgb(86, 83, 83);
+    border: solid 2px rgb(86, 83, 83);
+    padding: 10px 4px;
+    text-align: center;
+    
+    border-radius: 8px;
+}
+
+nav ul li:hover {
+    background-color: rgb(86, 83, 83);
+    color: rgb(244, 186, 232);
+}
+
+a {
+    text-decoration: none;
+}
+
+#home {
+    padding: 10px;
+    text-align: center;
+}
+
+.content {
+    float: right;
+    width: 78%;
+    padding: 0 1%;
+}
+
+.txt-center{
+    text-align: center;
+}
+
+.tag{
+    color: red;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.txt-azul{
+    color: blue;
+}
+
+.caja{
+    background-color: gray;
+    padding: 40px;
+    width: 80px;
+    text-align: center;
+}
+
+/* desordenada customizada */
+ul.ldc li {
+    list-style-type: square;
+}
+
+ul.ldc li ul li{
+    list-style-type: disc;
+}
+
+ul.ldc li ul li ul li{
+    list-style-type: circle;
+}
+
+/* ordenada customizada */
+ol.loc li {
+    list-style-type: upper-alpha;
+}
+
+ol.loc li ol li{
+    list-style-type: lower-roman;
+}
+
+ol.loc li ol li ol li{
+    list-style-type: decimal;
+}
+
+ol.loci li ol li {
+    list-style-image: url(../img/heart.png);
+}
+
+ol.loci li ol li ol li {
+    list-style-type: upper-alpha;
+    list-style-image: none;
+}
+
+dt {
+    color: blue;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+table.te th {
+    background-color: rgb(244, 155, 243);
+    color: rgb(96, 118, 118);
+    font-size: 28px;
+}
+
+table.te td{
+    background-color: rgb(96, 118, 118);
+    color: rgb(244, 155, 243);
+}
+
+table.centered td {
+    text-align: center;
+}
+
+table.striped tr:nth-child(odd) {
+    background-color: rgb(107, 148, 135);
+}
+
+table.striped tr:nth-child(even) {
+    background-color: rgb(215, 172, 202);
+}
+
+table.horario td{
+    text-align: center;
+}
+
+table.horario th {
+    background-color: rgb(178, 183, 186);
+}
+
+video{
+    width: 80%;
+}
