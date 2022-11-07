@@ -152,11 +152,11 @@ table.centered td {
 }
 
 table.striped tr:nth-child(odd) {
-    background-color: rgb(107, 148, 135);
+    background-color: rgb(189, 161, 100);
 }
 
 table.striped tr:nth-child(even) {
-    background-color: rgb(215, 172, 202);
+    background-color: rgb(155, 141, 240);
 }
 
 table.horario td{
@@ -164,7 +164,28 @@ table.horario td{
 }
 
 table.horario th {
-    background-color: rgb(178, 183, 186);
+    background-color: rgb(222, 225, 227);
+}
+ .BDD{
+    background-color: rgb(241, 95, 134);
+ }
+ .SISI{
+    background-color: rgb(247, 128, 102);
+ }
+ .FOL{
+    background-color: rgb(245, 245, 93);
+ }
+ .ENDE{
+    background-color: rgb(33, 145, 59);
+ }
+.LMSG{
+    background-color: rgb(92, 255, 56);
+}
+.PROG{
+    background-color: rgb(91, 91, 243);
+}
+.INGLES{
+    background-color:rgb(239, 239, 125);
 }
 
 form.registro {
@@ -195,8 +216,8 @@ audio {
     padding: 20px;
 }
 #formhtml5 form fieldset legend {
-    background-color: rgb(20, 189, 189);
-    color: rgb(252, 252, 252);
+    background-color: rgb(122, 33, 33);
+    color: rgb(184, 179, 179);
 }
 #idrange{
     width: 40px;
