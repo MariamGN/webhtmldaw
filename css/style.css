@@ -183,3 +183,39 @@ table.horario th {
     width: 40px;
     text-align: center;
 }
+
+form.registro {
+    width: 60%;
+}
+.w100 {
+    width: 99%;
+}
+.w50 {
+    width: 49%;
+}
+textarea[name="comentarios"] {
+    max-width: 100%;
+}
+.fl {
+    display: block;
+    float: left;
+}
+audio {
+    width: 60%;
+    display: block;
+    margin: 0 auto;
+}
+#formhtml5 form {
+    width: 50%;
+    margin: 0 auto;
+    background-color: gainsboro;
+    padding: 20px;
+}
+#formhtml5 form fieldset legend {
+    background-color: rgb(57, 85, 85);
+    color: white;
+}
+#idrange{
+    width: 40px;
+    text-align: center;
+}
