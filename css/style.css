@@ -167,23 +167,6 @@ table.horario th {
     background-color: rgb(178, 183, 186);
 }
 
-#formhtml5 form {
-    width: 50%;
-    margin: 0 auto;
-    background-color: gainsboro;
-    padding: 20px;
-}
-
-#formhtml5 form fieldset legend {
-    background-color: rgb(57, 85, 85);
-    color: white;
-}
-
-#idrange{
-    width: 40px;
-    text-align: center;
-}
-
 form.registro {
     width: 60%;
 }
@@ -208,12 +191,12 @@ audio {
 #formhtml5 form {
     width: 50%;
     margin: 0 auto;
-    background-color: gainsboro;
+    background-color: rgb(216, 123, 123);
     padding: 20px;
 }
 #formhtml5 form fieldset legend {
-    background-color: rgb(57, 85, 85);
-    color: white;
+    background-color: rgb(20, 189, 189);
+    color: rgb(252, 252, 252);
 }
 #idrange{
     width: 40px;

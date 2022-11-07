@@ -4,7 +4,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Maqueta</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.css">    
+    <script>
+        function updateTxtRange(valor) {
+            document.getElementById('idrange').value = valor
+        }
+    </script>
 </head>
 <body>
     <div class="container">
@@ -39,7 +44,7 @@
                 </ul>
             </nav>
             <div class="content">
-                <div id="FormHTML5.html">                    
+                <div id="formhtml5">                    
                     <h1 class="txt-center">FormHTML5.html</h1>
                     <form action="pagina.php" method="get" enctype="multipart/form-data">
                         <fieldset>
