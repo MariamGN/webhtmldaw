@@ -166,24 +166,3 @@ table.horario td{
 table.horario th {
     background-color: rgb(178, 183, 186);
 }
-
-video{
-    width: 80%;
-}
-
-#formhtml5 form {
-    width: 50%;
-    margin: 0 auto;
-    background-color: gainsboro;
-    padding: 20px;
-}
-
-#formhtml5 form fieldset legend {
-    background-color: rgb(57, 85, 85);
-    color: white;
-}
-
-#idrange{
-    width: 40px;
-    text-align: center;
-}
