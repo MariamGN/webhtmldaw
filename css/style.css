@@ -164,28 +164,28 @@ table.horario td{
 }
 
 table.horario th {
-    background-color: rgb(222, 225, 227);
+    background-color: rgba(237,237,237,255);
 }
  .BDD{
-    background-color: rgb(241, 95, 134);
+    background-color: rgba(255,128,128,255);
  }
  .SISI{
-    background-color: rgb(247, 128, 102);
+    background-color: rgba(255,161,98,255);
  }
  .FOL{
-    background-color: rgb(245, 245, 93);
+    background-color: rgba(255,255,101,255);
  }
  .ENDE{
-    background-color: rgb(33, 145, 59);
+    background-color: rgba(0,185,89,255);
  }
 .LMSG{
-    background-color: rgb(92, 255, 56);
+    background-color: rgba(0,223,0,255);
 }
 .PROG{
-    background-color: rgb(91, 91, 243);
+    background-color: rgba(0,127,255,255);
 }
 .INGLES{
-    background-color:rgb(239, 239, 125);
+    background-color:rgba(210,210,110,255);
 }
 
 form.registro {
