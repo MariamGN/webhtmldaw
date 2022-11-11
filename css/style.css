@@ -188,8 +188,8 @@ table.horario th {
     background-color:rgba(210,210,110,255);
 }
 
-form.registro {
-    width: 60%;
+.registro {
+    width: 40%;
 }
 .w100 {
     width: 99%;
